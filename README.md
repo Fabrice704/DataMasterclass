@@ -1,8 +1,11 @@
 # DataMasterclass
 Python pour la data science
 
-# premiËre modification
+# premi√®re modification
 Ajout d'une phrase dans le fichier
 
-# deuxiËme modification
+# deuxi√®me modification
 ajout d'une lettre dans le fichier
+
+# troisi√®me modification
+ajout d'un mot dans le fichier
